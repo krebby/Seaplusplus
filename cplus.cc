@@ -1,8 +1,3 @@
-#include <cstring>
-#include <string> 
-#include <cstdint>
-#include <cstdio>
-#include <cstdlib>
 #include <iostream>
 
 void menu_sel(int sel);
